@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[3Together's' Blog]]></title>
   <link href="http://3together.github.com/atom.xml" rel="self"/>
   <link href="http://3together.github.com/"/>
-  <updated>2012-03-01T23:19:43+08:00</updated>
+  <updated>2012-03-02T00:23:59+08:00</updated>
   <id>http://3together.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[3Together]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[special day]]></title>
+    <link href="http://3together.github.com/blog/2012/03/01/special-day/"/>
+    <updated>2012-03-01T23:57:00+08:00</updated>
+    <id>http://3together.github.com/blog/2012/03/01/special-day</id>
+    <content type="html"><![CDATA[<p>Today is a big day!</p>
+
+<p>3Together studio is founded. We call Ourselves 3Together because we are three guys who have a same dream:</p>
+
+<p>building elegant applications and coding for fun.</p>
+
+<p>Let &#8216;s say goodbye to yesterday, and say hello to tomorrow.</p>
+
+<pre><code>NSYesterday *yesterday = [[[NSYesterday] alloc] init];
+/* do something */
+[yesterday sayGoodbye];
+[yesterday release];
+yesterday = nil;
+NSTomorrow *tomorrow = [[[NSTomorrow] alloc] init];
+[tomorrow sayHello];
+</code></pre>
+
+<p>Yes, we are reborn, we are ready!</p>
+]]></content>
+  </entry>
   
 </feed>
